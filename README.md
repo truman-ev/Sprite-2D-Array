@@ -20,10 +20,11 @@ Suggested steps to start the assignment
 Program requirements
 -----------------------
 Assessment Criteria
-Criteria	Excellent (10 pts)	Good (7 pts)	Needs Improvement (5 pts)
-Functionality	The sprite animation works smoothly and moves correctly.	Minor bugs, but the sprite animation works.	Major issues; sprite does not animate properly.
-Customization	The student replaced the sprite and modified movement significantly.	The student replaced the sprite but only made small modifications.	Minimal or no customization.
-Code Comments	Clearly explains all parts of the program.	Some comments are missing or unclear.	Few or no comments.
+| Criteria |	Excellent (10 pts) | Good (7 pts)	| Needs Improvement (5 pts) |
+|------------|-------------|------------|------------|
+| Functionality |	The sprite animation works smoothly and moves correctly. | Minor bugs, but the sprite animation works. | Major issues;sprite does not animate properly.
+| Customization	| The student replaced the sprite and modified movement significantly. | The student replaced the sprite but only made small modifications. | Minimal or no customization.
+|Code | Comments	Clearly explains all parts of the program. | Some comments are missing or unclear. | Few or no comments.
 
 
 GitHub problems?
