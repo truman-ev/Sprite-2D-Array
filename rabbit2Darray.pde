@@ -54,23 +54,7 @@ class Sprite {
     this.y = y;
   }
 
-  //void update() {
-  //  // Update animation frame
-  //  frameCount++;
-  //  if (frameCount % frameDelay == 0) {
-  //    currentFrame = (currentFrame + 1) % numFrames;
-  //  }
-  //   // Move sprite to the right
-  //  x += speedX;
 
-  //  // Reset position when it moves off the screen
-  //  if (x > width + size / 2) {
-  //      x = -size / 2;  // Start from the left again
-  //  }
-    
-    
-    
-  //}
   void update() {
     // Update animation frame
     frameCount++;
