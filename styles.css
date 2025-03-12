@@ -7,7 +7,7 @@ body {
 }
 canvas {
     display: block;
-    margin: 10px auto;
+    margin: 0px auto;
 }
 
 #content {
