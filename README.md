@@ -11,10 +11,15 @@ Suggested steps to start the assignment
 ------------------------------------------
 1. Sign up into your [GitHub account](https://github.com)
 2. Then *fork* [this repository](https://github.com/ATC-APCSA/Lightning) 
-3. 
-5. When you are happy with the program, copy and paste it back into GitHub
-5. You will also need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
-6. The final step is to submit the URL for your website to google classroom. You can find more specific instructions with pictures on how to submit your assignment on slides 50 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation. Don't hesitate to ask for help if your aren't sure how something is suppose to work.  
+3. Create your own animated sprite [with Piskel](https://www.piskelapp.com/)
+4. When your completed your sprite (about 4-12 frames of your animation) select Export > Zip > Download Zip
+5. Locate the zip file and open it to unzip the folder.
+6. Create a copy of the starter code in the Sprite2Darray.pde file. Paste into a processing sketch and save the sketch.
+7. Change the name of the folder with your sprites in it to "data" and put that folder into the folder of your processing code. 
+8. Modify the code to the needs of your sprite files and creative preferences. 
+9. When you are happy with the program, copy and paste it back into GitHub
+10. You will also need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub.
+11. The final step is to submit the URL for your website to google classroom. You can find more specific instructions with pictures on how to submit your assignment on slides 50 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation. Don't hesitate to ask for help if your aren't sure how something is suppose to work.  
 
 
 Program requirements
