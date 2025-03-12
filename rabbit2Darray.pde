@@ -4,7 +4,7 @@ Sprite[][] sprites; // 2D array of sprites
 
 int numFrames = 9;  // Number of animation frames
 PImage[] spriteFrames; // Array to hold sprite images
-int frameDelay = 6;  // Speed of animation (higher = slower)
+int frameDelay = 20;  // Speed of animation (higher = slower)
 
 void setup() {
   size(500, 500);
