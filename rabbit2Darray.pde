@@ -47,7 +47,7 @@ class Sprite {
   int currentFrame = 0;
   int frameCount = 0;
   float size = 50; // Size of the sprite
-  float speedX = 2; // Speed of movement along x-axis
+  float speedX = 1; // Speed of movement along x-axis
 
   Sprite(float x, float y) {
     this.x = x;
