@@ -1,5 +1,6 @@
-int cols = 6;  // Number of columns
-int rows = 5;  // Number of rows
+/* test */
+int cols = 6;  // 
+int rows = 5;  // 
 Sprite[][] sprites; // 2D array of sprites
 
 int numFrames = 9;  // Number of animation frames
