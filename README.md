@@ -1,12 +1,17 @@
 2D Array with Animated Sprite 
 =========
+Learning Goals: 
+Students will be able to modify and document an existing Java program in Processing to include their own sprite animation, and create and edit an HTML page to display their Processing sketch and describe their modifications.
 
+This aligns with CSTA Standards:
+2-AP-19: Document programs in order to make them easier to follow, test, and debug.
+2-NI-05: Explain how information is stored, transmitted, and displayed on the internet.
 
 Suggested steps to start the assignment
 ------------------------------------------
 1. Sign up into your [GitHub account](https://github.com)
-1. Then *fork* [this repository](https://github.com/ATC-APCSA/Lightning) 
-   ....
+2. Then *fork* [this repository](https://github.com/ATC-APCSA/Lightning) 
+3. 
 5. When you are happy with the program, copy and paste it back into GitHub
 5. You will also need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
 6. The final step is to submit the URL for your website to google classroom. You can find more specific instructions with pictures on how to submit your assignment on slides 50 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation. Don't hesitate to ask for help if your aren't sure how something is suppose to work.  
@@ -14,6 +19,11 @@ Suggested steps to start the assignment
 
 Program requirements
 -----------------------
+Assessment Criteria
+Criteria	Excellent (10 pts)	Good (7 pts)	Needs Improvement (5 pts)
+Functionality	The sprite animation works smoothly and moves correctly.	Minor bugs, but the sprite animation works.	Major issues; sprite does not animate properly.
+Customization	The student replaced the sprite and modified movement significantly.	The student replaced the sprite but only made small modifications.	Minimal or no customization.
+Code Comments	Clearly explains all parts of the program.	Some comments are missing or unclear.	Few or no comments.
 
 
 GitHub problems?
